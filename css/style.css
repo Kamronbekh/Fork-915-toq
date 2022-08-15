@@ -32,10 +32,81 @@ ul{
 
 
 /* membership start */
+.membership__title{
+    font-weight: 700;
+font-size: 51px;
+line-height: 54px;
+text-align: center;
+letter-spacing: 0.5px;
+color: #692340;
+}
+.membership__text{
+    font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+color: #692340;
+margin-top: 37px;
+margin-bottom: 147px;
+max-width: 678px;
+margin-left: 341px;
+}
+.membership__cards-img{
+    width: 160px;
+    height: 160px;
 
-
-
-
+}
+.membership__cards-title{
+    font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+color: #692340;
+max-width: 117px;
+}
+.membership__cards-text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #692340;
+max-width: 192px;
+}
+.membership__cards{
+    display: flex;
+    justify-content: space-around;
+}
+.customers__title{
+    font-weight: 400;
+font-size: 112px;
+line-height: 150px;
+text-align: center;
+color: #692340;
+}
+.customer__tittle{
+    font-weight: 400;
+font-size: 39px;
+line-height: 44px;
+text-align: center;
+color: #692340;
+max-width: 450px;
+}
+.customer__text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+color: #692340;
+max-width: 463px;
+}
+.marketing{
+    display: flex;
+    column-gap: 229px;
+    margin-top: 136px;
+}
+.marketing__img{
+    margin-left: 217px;
+}
 /* membership end */
 
 /* guide start */
